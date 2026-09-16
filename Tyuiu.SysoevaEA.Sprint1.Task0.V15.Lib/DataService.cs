@@ -1,5 +1,4 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint1;
-using tyuiu.cources.programming.interfaces.Sprint2;
 
 namespace Tyuiu.SysoevaEA.Sprint1.Task0.V15.Lib
 {

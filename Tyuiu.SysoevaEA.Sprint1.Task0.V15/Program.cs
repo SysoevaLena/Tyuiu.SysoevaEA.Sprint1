@@ -17,7 +17,7 @@ namespace Tyuiu.SysoevaEA.Sprint1.Task0.V15
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая вычисляет значение 20 - (2 * 2 - 8)         *");
-            Console.WriteLine("* и печатает результат на экране.                                         *");
+            Console.WriteLine("* и печатает результат на экране                                          *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");

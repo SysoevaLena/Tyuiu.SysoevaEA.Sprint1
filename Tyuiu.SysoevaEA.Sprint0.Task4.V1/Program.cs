@@ -1,6 +1,6 @@
-﻿using Tyuiu.SysoevaEA.Sprint0.Task4.V1.Lib;
+﻿using Tyuiu.SysoevaEA.Sprint1.Task4.V1.Lib;
 
-namespace Tyuiu.SysoevaEA.Sprint0.Task4.V1
+namespace Tyuiu.SysoevaEA.Sprint1.Task4.V1
 {
     internal class Program
     {

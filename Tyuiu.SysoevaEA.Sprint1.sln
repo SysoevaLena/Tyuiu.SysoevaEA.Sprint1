@@ -37,11 +37,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SysoevaEA.Sprint1.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{B3E163C7-70DA-4937-9928-8394A951DB63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SysoevaEA.Sprint0.Task4.V1", "Tyuiu.SysoevaEA.Sprint0.Task4.V1\Tyuiu.SysoevaEA.Sprint0.Task4.V1.csproj", "{2FBC537A-FBA8-425F-AB96-6216BB0229A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SysoevaEA.Sprint1.Task4.V1", "Tyuiu.SysoevaEA.Sprint0.Task4.V1\Tyuiu.SysoevaEA.Sprint1.Task4.V1.csproj", "{2FBC537A-FBA8-425F-AB96-6216BB0229A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SysoevaEA.Sprint0.Task4.V1.Test", "Tyuiu.SysoevaEA.Sprint0.Task4.V1.Test\Tyuiu.SysoevaEA.Sprint0.Task4.V1.Test.csproj", "{DA6DBD85-74E9-4A76-988D-C9ED8B069C6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SysoevaEA.Sprint1.Task4.V1.Test", "Tyuiu.SysoevaEA.Sprint0.Task4.V1.Test\Tyuiu.SysoevaEA.Sprint1.Task4.V1.Test.csproj", "{DA6DBD85-74E9-4A76-988D-C9ED8B069C6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SysoevaEA.Sprint0.Task4.V1.Lib", "Tyuiu.SysoevaEA.Sprint0.Task4.V1.Lib\Tyuiu.SysoevaEA.Sprint0.Task4.V1.Lib.csproj", "{7BB70CDD-691C-4077-88CC-9FEB32E7F8B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SysoevaEA.Sprint1.Task4.V1.Lib", "Tyuiu.SysoevaEA.Sprint0.Task4.V1.Lib\Tyuiu.SysoevaEA.Sprint1.Task4.V1.Lib.csproj", "{7BB70CDD-691C-4077-88CC-9FEB32E7F8B2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{989F4B73-6F96-40FF-91E1-E056D9CF7017}"
 EndProject

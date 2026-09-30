@@ -23,8 +23,8 @@ namespace Tyuiu.SysoevaEA.Sprint1.Task7.V27
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*            2         2                                                  *");
-            Console.WriteLine("*      cos(x)  + sin(y)     x * y - 12                                    *");
-            Console.WriteLine("* z = ------------------ - -------------                                  *");
+            Console.WriteLine("*      cos(x)  + sin(y)      x * y - 12                                   *");
+            Console.WriteLine("* z = ------------------ - --------------                                 *");
             Console.WriteLine("*         sin(y) + 1        15 + cos(x)                                   *");
 
             double x, y;
